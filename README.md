@@ -1,5 +1,5 @@
 - 👋 Hi, I’m jeff balbalosa
-- 👀 I’m interested in C# ASP.Net, Python, React, Typescript
+- 👀 I’m interested in C#, VB.Net, ASP.Net, Python, Dyango, React, Typescript
 - 🌱 I’m currently learning Web Application Development
 - 💞️ I’m looking to collaborate on any project
 - 📫 You can reach me on my linkedin account
